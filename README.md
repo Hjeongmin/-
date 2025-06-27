@@ -64,7 +64,7 @@
 1. 웹 힌트 → Base64 디코딩 → WP 관리자 로그인
 1. 404.php 수정 → 리버스 셸 삽입
   
-- **상세 워크스루**: [🔗 보기](./ctf-project/README.md)
+- **상세 워크스루**: [🔗 보기](./project/팀%20NSC%20제작%20CTF%20워크스루.pdf)
 
 ---
 
@@ -74,7 +74,7 @@
 
 - **기간**: 2025.04.21 ~ 2025.06.03  
 - **설명**: XSS·CSRF·세션 우회 등 10문제 직접 설계·구현, 팀 대회 운영  
-- **워크스루**: [🔗 워크스루 보기](./wargame-project/my_challenges_walkthrough.md)  
+- **워크스루**: [🔗 워크스루 보기](./project/워게임%20워크스루(홍정민).pdf) 
 - **문제별 플래그**
 
 | #  | 취약점 유형                   | 플래그                                    |
@@ -95,7 +95,7 @@
 ### 3. ESG Wargame 모의해킹 및 보고서  
 - **기간**: 2025.05.01 ~ 2025.05.15  
 - **설명**: 타 팀 제작 워게임 사이트 대상 모의해킹 → 취약점 진단·보고서 작성  
-- **보고서**: [📝 ESG Wargame PenTest Report (PDF)](./report/esg_wargame_report.pdf)
+- **보고서**: [📝 ESG Wargame PenTest Report (PDF)](./project/홍정민%20모의해킹%20결과%20보고서.pdf)
 
 ---
 
