@@ -51,9 +51,7 @@
 ---
 
 ## 🧩 주요 프로젝트 목록
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hjeongmin/-/main/images/CTF-정보시스템보안구축엔지니어.jpg" width="400" alt="CTF 정보시스템보안구축엔지니어">
-</p>
+
 
 ### 1. CTF 제작 및 실습 프로젝트  
 - **기간**: 2025.03.20 ~ 2025.04.18  
