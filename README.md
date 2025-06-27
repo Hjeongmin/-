@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/[YourUsername]/[YourRepo]/main/profile.jpg" width="180" alt="[Your Name] 프로필 사진">
 </p>
 
-# 👋 보안전문가를 꿈꾸는 [Your Name]입니다.
+# 👋 보안전문가를 꿈꾸는 [홍정민]입니다.
 
-### 🔐 보안 엔지니어 · 모의해킹 · 시스템 취약점 분석
+### 🔐 보안 엔지니어 · 모의해킹 · 시스템 취약점 분석 · 보안관제
 
 실전 경험과 실패를 자산으로, 더 강한 보안 전문가로 성장하겠습니다.
 
