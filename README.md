@@ -52,7 +52,7 @@
 
 ## 🧩 주요 프로젝트 목록
 ![CTF-정보시스템보안구축엔지니어](https://github.com/user-attachments/assets/9f7f9bb3-16ae-4a10-929f-3095bae20d5d)
-![팀 NSC CTF 메인화면사진](https://github.com/user-attachments/assets/f84d104c-d4c4-4a6a-9726-fd7b080cc11e)
+![팀 NSC CTF 메인화면사진](https://github.com/user-attachments/assets/f94ab1e0-56d0-4407-9cd3-f78c2bf308e2)
 ### 1. CTF 제작 및 실습 프로젝트  
 - **기간**: 2025.03.20 ~ 2025.04.18  
 - **설명**: WordPress·FTP·SSH 취약점 연계 → 리버스쉘·권한 상승 시나리오 구현  
