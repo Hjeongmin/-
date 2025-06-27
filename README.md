@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/[YourUsername]/[YourRepo]/main/profile.jpg" width="180" alt="홍정민 프로필 사진">
-</p>
-
 # 👋 보안전문가를 꿈꾸는 홍정민입니다.
 
 ### 🔐 보안 엔지니어 · 모의해킹 · 시스템 취약점 분석
