@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/[YourUsername]/[YourRepo]/main/profile.jpg" width="180" alt="[Your Name] 프로필 사진">
+  <img src="https://raw.githubusercontent.com/[YourUsername]/[YourRepo]/main/profile.jpg" width="180" alt="홍정민 프로필 사진">
 </p>
 
-# 👋 보안전문가를 꿈꾸는 [Your Name]입니다.
+# 👋 보안전문가를 꿈꾸는 홍정민입니다.
 
-### 🔐 보안 엔지니어 · 모의해킹 · 시스템 취약점 분석· 보안관제
+### 🔐 보안 엔지니어 · 모의해킹 · 시스템 취약점 분석
 
 실전 경험과 실패를 자산으로, 더 강한 보안 전문가로 성장하겠습니다.
 
@@ -44,15 +44,28 @@
 
 ## 📄 자격증 및 시험 현황
 | 자격증                   | 상태             | 비고              |
-|-------------------------|-----------------|-------------------|
+|-------------------------|------------------|-------------------|
 | 리눅스마스터 2급 1차    | ✅ 합격          | 2025년 상반기     |
-| 리눅스마스터 2급 2차    | 🟡 가채점 합격  | 최종 결과 대기 중 |
+| 리눅스마스터 2급 2차    | 🟡 가채점 합격   | 최종 결과 대기 중 |
 
 ---
 
 ## 🧩 주요 프로젝트 목록
 
-### 1. 웹 워게임 제작 및 대회 참여  
+### 1. CTF 제작 및 실습 프로젝트  
+- **기간**: 2025.03.20 ~ 2025.04.18  
+- **설명**: WordPress·FTP·SSH 취약점 연계 → 리버스쉘·권한 상승 시나리오 구현  
+- **요약 워크스루**  
+  1. Nmap 포트 스캔 → FTP 접속 → internal_memo_ghost.txt 다운로드  
+  2. 웹 힌트 → Base64 디코딩 → WP 관리자 로그인  
+  3. 404.php 수정 → 리버스 셸 삽입  
+  4. `nc -lvnp 5555` → 쉘 연결  
+  5. SSH 접속 → `sudo` 권한 상승 → root 쉘 및 플래그 획득  
+- **상세 워크스루**: [🔗 보기](./ctf-project/README.md)
+
+---
+
+### 2. 웹 워게임 제작 및 대회 참여  
 - **기간**: 2025.04.21 ~ 2025.06.03  
 - **설명**: XSS·CSRF·세션 우회 등 10문제 직접 설계·구현, 팀 대회 운영  
 - **워크스루**: [🔗 워크스루 보기](./wargame-project/my_challenges_walkthrough.md)  
@@ -70,19 +83,6 @@
 | 8  | 이미지 Base64 힌트             | `FLAG{decoded_fruit_set}`               |
 | 9  | 클릭 수 조작                  | `FLAG{click_master_1000_times}`         |
 | 10 | Reflected XSS                | `FLAG{simple_reflected_xss}`            |
-
----
-
-### 2. CTF 제작 및 실습 프로젝트  
-- **기간**: 2025.03.20 ~ 2025.04.18  
-- **설명**: WordPress·FTP·SSH 취약점 연계 → 리버스쉘·권한 상승 시나리오 구현  
-- **요약 워크스루**  
-  1. Nmap 포트 스캔 → FTP 접속 → internal_memo_ghost.txt 다운로드  
-  2. 웹 힌트 → Base64 디코딩 → WP 관리자 로그인  
-  3. 404.php 수정 → 리버스 셸 삽입  
-  4. `nc -lvnp 5555` → 쉘 연결  
-  5. SSH 접속 → `sudo` 권한 상승 → root 쉘 및 플래그 획득  
-- **상세 워크스루**: [🔗 보기](./ctf-project/README.md)
 
 ---
 
