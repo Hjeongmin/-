@@ -56,11 +56,12 @@
 - **기간**: 2025.03.20 ~ 2025.04.18  
 - **설명**: WordPress·FTP·SSH 취약점 연계 → 리버스쉘·권한 상승 시나리오 구현  
 - **요약 워크스루**  
-  1. Nmap 포트 스캔 → FTP 접속 → internal_memo_ghost.txt 다운로드  
-  2. 웹 힌트 → Base64 디코딩 → WP 관리자 로그인  
-  3. 404.php 수정 → 리버스 셸 삽입  
-  4. `nc -lvnp 5555` → 쉘 연결  
-  5. SSH 접속 → `sudo` 권한 상승 → root 쉘 및 플래그 획득  
+1. Nmap 포트 스캔
+1. FTP 접속
+1. internal_memo_ghost.txt 다운로드
+1. 웹 힌트 → Base64 디코딩 → WP 관리자 로그인
+1. 404.php 수정 → 리버스 셸 삽입
+  
 - **상세 워크스루**: [🔗 보기](./ctf-project/README.md)
 
 ---
