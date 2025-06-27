@@ -54,6 +54,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hjeongmin/-/main/images/CTF-정보시스템보안구축엔지니어.jpg" width="400" alt="CTF 정보시스템보안구축엔지니어">
 </p>
+
 ### 1. CTF 제작 및 실습 프로젝트  
 - **기간**: 2025.03.20 ~ 2025.04.18  
 - **설명**: WordPress·FTP·SSH 취약점 연계 → 리버스쉘·권한 상승 시나리오 구현  
