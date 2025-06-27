@@ -51,7 +51,7 @@
 ---
 
 ## 🧩 주요 프로젝트 목록
-### 1. CTF 제작 및 실습 프로젝트
+### 1. CTF 제작 및 대회
 ![CTF-정보시스템보안구축엔지니어](https://github.com/user-attachments/assets/9f7f9bb3-16ae-4a10-929f-3095bae20d5d)
 ![팀 NSC CTF 메인화면사진](https://github.com/user-attachments/assets/f94ab1e0-56d0-4407-9cd3-f78c2bf308e2)
   
