@@ -68,7 +68,7 @@
 
 ---
 
-### 2. 웹 워게임 제작 및 대회 참여
+### 2. 웹 워게임 제작 및 대회 
 ![팀 NULL 워게임 메인페이지2](https://github.com/user-attachments/assets/4e5b9c32-6a4d-4a00-94a9-c00dd0a22aba)
 ![팀 NULL 워게임 문제 목록 페이지](https://github.com/user-attachments/assets/2ef793ad-812d-4c17-93c9-fb0a980e07db)
 
