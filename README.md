@@ -67,7 +67,8 @@
 
 ---
 
-### 2. 웹 워게임 제작 및 대회 참여  
+### 2. 웹 워게임 제작 및 대회 참여
+![팀 NULL 워게임 메인페이지2](https://github.com/user-attachments/assets/4e5b9c32-6a4d-4a00-94a9-c00dd0a22aba)
 - **기간**: 2025.04.21 ~ 2025.06.03  
 - **설명**: XSS·CSRF·세션 우회 등 10문제 직접 설계·구현, 팀 대회 운영  
 - **워크스루**: [🔗 워크스루 보기](./wargame-project/my_challenges_walkthrough.md)  
